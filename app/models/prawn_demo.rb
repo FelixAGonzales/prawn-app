@@ -1,0 +1,2 @@
+class PrawnDemo < ApplicationRecord
+end
